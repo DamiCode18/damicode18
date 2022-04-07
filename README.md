@@ -38,9 +38,6 @@ I have worked with quite a number of frontend tools and technologies which inclu
 ### Contact Me
 <hr/>
 
-📞 +2347051810646
-
-
 📧 adebayoribukunoluwa@gmail.com
 
 ＠ https://twitter.com/dami_code
