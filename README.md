@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm Damilare Adebayo, a frontend software engineer based in Lagos, Nigeria.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a very good singing voice and yeah, I record a lot of covers of songs I like...
+- ⚡ Fun fact: I like singing...
 
 
 I have worked with quite a number of frontend tools and technologies which includes:
