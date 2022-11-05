@@ -24,15 +24,17 @@ I'm Damilare Adebayo, a frontend software engineer based in Lagos, Nigeria.
 
 I have worked with quite a number of frontend tools and technologies which includes:
 
-- <b>Javascript Frameworks:</b> Reactjs(Nextjs), VueJs
+- <b>Javascript Frameworks:</b> Reactjs, Nextjs, VueJs
 
-- <b>CSS & Preprocessors:</b> CSS3, SCSS & Sass
+- <b>CSS & Preprocessors:</b> CSS3, SCSS & Sass, Chakra-UI, Tailwindcss
 
 - <b>Tooling:</b> Webpack, Nodejs & Npm
 
 - <b>Testing:</b> Jest, React-testing-library
 
-- <b>API:</b> REST, GraphQl
+- <b>API:</b> REST, GraphQl, ReactQuery
+
+- <b>State Management:</b> Redux, Recoiljs, ContextApi
 
 
 ### Contact Me
@@ -43,3 +45,5 @@ I have worked with quite a number of frontend tools and technologies which inclu
 ＠ https://twitter.com/dami_code
 
 @ https://gitlab.com/damidhrey
+
+@https://damicode.netlify.app
