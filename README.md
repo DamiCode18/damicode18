@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Damilare Adebayo, a frontend software engineer based in Lagos, Nigeria.
+I'm a software engineer with 5 years of experience, I am a skilled and innovative professional dedicated to creating exceptional user experiences. Passionate about blending creativity with technical expertise, I have a deep understanding of frontend technologies and a proven track record of delivering visually stunning and highly functional web applications.
+As a front-end developer, I am passionate about staying at the forefront of emerging trends and best practices in the industry. I constantly seek opportunities to expand my skill set, experiment with new technologies, and integrate cutting-edge tools into my workflow, for best results.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like singing...
 
