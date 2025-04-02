@@ -45,6 +45,4 @@ I have worked with quite a number of frontend tools and technologies which inclu
 
 ＠ https://twitter.com/dami_code
 
-@ https://gitlab.com/damidhrey
-
 @https://damicode.netlify.app
